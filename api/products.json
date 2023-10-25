@@ -1,0 +1,31 @@
+[
+    {
+       "id":"1",
+       "name":"Baby Yoda",
+       "description":"Sticker with Grogu from Star Wars",
+       "price":9.99,
+       "image":"img/baby-yoda.svg"
+    },
+    {
+       "id":"2",
+       "name":"Banana",
+       "description":"Sticker with banana",
+       "price":8.99,
+       "image":"img/banana.svg"
+    },
+    {
+       "id":"3",
+       "name":"Viking",
+       "description":"Sticker with viking",
+       "price":7.99,
+       "image":"img/viking.svg"
+    },
+    {
+       "id":"4",
+       "name":"Girl",
+       "description":"Sticker with girl",
+       "price":7.59,
+       "image":"img/girl.svg"
+    }
+ ]
+ 

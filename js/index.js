@@ -4,4 +4,5 @@ document.addEventListener('partialsLoaded', () => {
     import('./product-list.js');
     import('./product-carousel.js');
     import('./product-carousel-animated.js');
+    import('./contact-form-formspree.js');
 });
